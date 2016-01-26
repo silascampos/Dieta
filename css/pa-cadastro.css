@@ -1,0 +1,217 @@
+body{
+    background-color: #e7f5ec;
+    width: 100%;   
+    
+}
+.main-baner {
+    background-color: #77d3b4;
+    width: 87.7%;
+    height: 568px;    
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 3%;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.baner {
+    background: url(images/MergedLayers-cadastro.png);   
+    background-repeat: no-repeat;
+    height: 98px;   
+    width: 399px;
+    position: relative;
+    float: right;
+    
+}
+.baner p {
+    color: #fdfefe;
+    font: 400 30px BodoniMTBlack;
+    font-size: 20px;
+    position: relative;
+    top: -15px;
+    float: right;
+    padding-right: 110px;
+    
+}
+
+.l1-nome {
+    background-color: #fdfefe;
+    height: 32px;
+    width: 382px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+    padding-left: 20px;
+    
+}
+
+.l1-cpf{
+    background-color: #fdfefe;
+    height: 32px;
+    width: 200px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+    padding-left: 10px;
+    
+}
+
+.l1-sexo{
+    background-color: #fdfefe;
+    height: 32px;
+    width: 150px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+.linha-1{
+   position: relative;
+    top: 20px;
+    left:70px;
+    display: inline-block;
+}
+
+.linha-1 p {
+    display: inline-block;
+    color: #fdfefe;
+    font: 900 33.75px 'Cooper Std';
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.linha-2{
+   position: relative;
+    top: 50px;
+    left:70px;
+    display: inline-block;
+}
+
+.linha-2 p {
+    display: inline-block;
+    color: #fdfefe;
+    font: 900 33.75px 'Cooper Std';
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.l1-rua{
+    background-color: #fdfefe;
+    height: 32px;
+    width: 80px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+.linha-3{
+   position: relative;
+    top: 80px;
+    left:70px;
+    display: inline-block;
+}
+
+.linha-3 p {
+    display: inline-block;
+    color: #fdfefe;
+    font: 900 33.75px 'Cooper Std';
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+
+.li-rua {
+    background-color: #fdfefe;
+    height: 32px;
+    width: 382px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+.li-bairro {
+    background-color: #fdfefe;
+    height: 32px;
+    width: 228px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+.li-numero {
+    background-color: #fdfefe;
+    height: 32px;
+    width: 100px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+.li-mae {
+    background-color: #fdfefe;
+    height: 32px;
+    width: 382px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+.li-tel {
+    background-color: #fdfefe;
+    height: 32px;
+    width: 180px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+.li-especialidade {
+    background-color: #fdfefe;
+    height: 32px;
+    width: 125px;
+    position: relative;
+    border-radius: 10px;
+    border: none;
+    margin-right: 9px;
+}
+
+
+label {
+    font: 900 25.75px 'Cooper Std';
+    font-style: normal;
+    color: #426f60;
+    
+}
+
+.linha-4 {
+    position: relative;
+    top: 120px;
+    float: right;
+    right: 200px;
+    background-color: #7591eb;    
+    border-radius: 10px; 
+
+}
+
+
+
+.btn-salvar {
+    border: none;    
+    background-color: #7591eb;
+    text-align: center;
+    height: 39px;
+    color: #fff;
+    border-radius: 10px;
+    font: 900 18px 'Cooper Std';
+    padding-left: 20px;
+    padding-right: 20px;
+}

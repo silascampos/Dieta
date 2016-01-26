@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <script type="text/javascript" src="js/jquery.js"></script>
+    </head>
+    <body class="container">
+        <div>TODO write content</div>
+        
+        <label>Digite seu nome:</label>
+        <input id="compo-nome"/>
+        <input id="botao-copiar" type="button" value="copiar"/>
+        
+        
+        <h2 id="texto-copiar"></h2>
+        <script src="js/jquery-2.2.0.min.js"></script>
+        <script>
+            
+            $('#botao-copiar').on("click", function(){
+                
+                var nome = $('#campo-nome').val();
+                
+                $('#texto-copiado').text(nome);
+                
+            });
+            
+            
+        </script>
+    </body>
+</html>

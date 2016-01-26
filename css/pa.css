@@ -1,0 +1,112 @@
+body{
+    background-color: #e7f5ec;
+    width: 100%;
+    
+    
+}
+
+.barras-laranja{    
+  
+    background: url(images/MergedLayers.png);
+    height: 298px;
+    position: relative;
+    top: -35px;    
+}
+
+.login{
+    background-color: #ffffff;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px;
+    height: 50px;
+    width: 248px;
+    
+}
+
+.login-input {
+    background-color: #ffffff;
+    margin: 0 auto;
+    display: block;
+    height: 45px;
+    text-align: center;
+    border: none;
+    
+}
+
+.senha{
+    background-color: #ffffff;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px;
+    height: 50px;
+    width: 248px;
+    margin-top: 20px;
+    
+}
+
+.senha-input {
+    
+    background-color: #ffffff;
+    margin: 0 auto;
+    display: block;
+    height: 45px;
+    text-align: center;
+    border: none;
+    
+}
+
+
+.conteudo {
+    background-color: #7cd1b7;
+    width: 60%;
+    height: 568px;    
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 3%;
+    position: relative;
+    
+}
+
+.botao {
+  
+    background-color: #7591eb;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px;
+    height: 39px;
+    width: 96px;
+    margin-top: 20px;
+}
+
+.btn-entra {
+    
+   border: none;
+    
+    background-color: #7591eb;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    top: 10px;
+    height: 39px;
+    color: #fff;
+    
+}
+
+
+
+#login {
+    background-color: #ffffff;
+   
+    display: block;
+}
+#senha {
+    display: block;
+    background-color: #ffffff;
+    
+}
+
+
+
+div {
+    
+}

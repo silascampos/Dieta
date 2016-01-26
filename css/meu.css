@@ -1,0 +1,33 @@
+#td-name {
+    font-weight: bold;
+    
+}
+
+.name-center{
+    text-align: center;
+}
+
+#piechart {
+    width: 48%;
+    float: left;
+    height: 400px;
+}
+
+#barchart_material{
+    width: 48%;
+    float: right;
+    height: 400px;
+    
+}
+
+#dual_y_div{
+    width: 96%;
+    margin: 0 auto;
+    clear: both;
+    position: relative;
+    height: 400px;
+    
+    
+    
+}
+
